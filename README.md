@@ -1,5 +1,15 @@
 ## Hello
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Right+Hand+Man;I+do+programming+for+fun)](https://git.io/typing-svg)
 ## Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raik176&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raik176&size_weight=0.5&count_weight=0.5&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
